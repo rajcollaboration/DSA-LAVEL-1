@@ -17,7 +17,7 @@ public class CompresionString {
                     res += count;
                     count = 1;
                 }
-                res += current;
+                res += current; 
             }
         }
 
