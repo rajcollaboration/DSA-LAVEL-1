@@ -25,7 +25,7 @@ public class CompresionString {
     }
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-        String str = "aaassssssssssgsssssssssssssssssssssssssssssssssssssssssssssssssssssssssgggggggggggggggggghhhhhy";
+        String str = "aaassssssssssgssssssssssssssssssssssssssssssssssssssssssssssssssssssssgggggggggggggggggghhhhhy";
         String s = "";
         s += str.charAt(0);
         for (int i = 1; i < str.length(); i++) {
